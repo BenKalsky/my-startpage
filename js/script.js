@@ -58,7 +58,7 @@ var settings = {
 	},
 
 	"animation": {
-		"hideLinks": true
+		"hideLinks": false
 	},
 
 	"icons": {
